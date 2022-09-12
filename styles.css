@@ -1,0 +1,45 @@
+:root{
+    --color: white;
+}
+
+.header {
+    max-width: 700px;
+    background-color: rgb(126, 126, 126);
+} 
+
+div.header {
+    max-width: 50px;
+    background-color:rgb(126, 126, 126)
+    margin-top 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 15px;
+}
+
+#title {
+    color: var(--color);
+    font-size: 10px;
+    font-style: 'Arial', 'Helvetica', sans serif;    
+}
+
+.link-1 {
+    color: var(--color);
+    font-style: 'Arial', 'Helvetica', sans serif;
+    font-size: 10px; 
+}
+
+.link-2 {
+    color: var(--color);
+    font-style: 'Arial', 'Helvetica', sans serif;
+    font-size: 10px;
+}
+
+.link-3 {
+    color: var(--color);
+    font-style: 'Arial', 'Helvetica', sans serif;
+    font-size: 10px;
+}
+
+
+
